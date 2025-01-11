@@ -5,7 +5,7 @@
 The ghost cannot talk to players, cannot pick up objects, cannot close doors, does not affect the game
 
 ## The ghost can
-To use the ghost you have to be a spectator, it has a coin to teleport to the players, when there are 15 seconds left to reappear it is automatically removed, to leave manually you have to put ghost back in
+To use the ghost you have to be a spectator, it has a coin to teleport to the players, when there are 15 seconds left to respawn it is automatically eliminated, to exit manually you have to put the command again
 
 ## Requirements
 Exiled: >= 9.3.0
