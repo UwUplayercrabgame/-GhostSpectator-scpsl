@@ -4,6 +4,8 @@
 ## The ghost cannot
 The ghost cannot talk to players, cannot pick up objects, cannot close doors, does not affect the game
 
+## The ghost can
+
 ## Requirements
 Exiled: >= 9.3.0
 
